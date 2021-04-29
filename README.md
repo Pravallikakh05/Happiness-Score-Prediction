@@ -7,6 +7,13 @@ The rankings of national happiness are based on a Cantril ladder survey. Nationa
 
 In the reports, experts in fields including economics, psychology, survey analysis, and national statistics, describe how measurements of well-being can be used effectively to assess the progress of nations, and other topics. Each report is organized by chapters that delve deeper into issues relating to happiness, including mental illness, the objective benefits of happiness, the importance of ethics, policy implications, and links with the Organisation for Economic Co-operation and Development's (OECD) approach to measuring subjective well-being and other international and national efforts.
 
+The categories include: Economy, Family, Health, Freedom, Trust, Generosity, and Dystopia Residual. 
+
+Most of these subfields are self-explanatory, but let’s briefly clarify the last category: Dystopia Residual. Dystopia is an imaginary country that has the world’s least happy people, while residuals refer to the unexplained components that contribute to a country’s happiness. We treat Dystopia Residual as a benchmark against which we may compare the evaluation of a country’s happiness.
+
+Our study has not only demonstrated that happiness depends upon a high ranking in many categories, but also that each country’s level of happiness does not change drastically from year to year, and will probably not change much in the near future. 
+
+
 The World Happiness Report is a survey of the state of global happiness. The happiness scores (0-10) are based on answers to the main life evaluation question asked in the poll.
 
 Main Happiness Score Columns:
